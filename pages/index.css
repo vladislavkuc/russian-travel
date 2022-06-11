@@ -38,8 +38,6 @@
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__link/place__link.css);
-/* стили для миксина place__places */
-@import url(../blocks/places/__place/places__place.css);
 /* стили для блока cover */
 @import url(../blocks/cover/cover.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
@@ -48,3 +46,4 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__link/footer__link.css);
+@import url(../blocks/footer/__links/footer__links.css);
