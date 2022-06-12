@@ -9,11 +9,7 @@
   line-height: 1.06;
   text-align: center;
   color: #FFFFFF;
-  text-decoration: none;
-}
-
-.cover__title:hover {
-  opacity: 0.8;
+  z-index: 1;
 }
 
 @media screen and (max-width: 767px) {
